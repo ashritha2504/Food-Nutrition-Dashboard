@@ -8,7 +8,7 @@ It also includes a detailed report explaining each DAX measure and design choice
 ## 📸 Dashboard Preview
 
 ### Dashboard View 1 – Nutrient Overview
-![Dashboard Page 1](images/dashboard-page1.png)
+https://github.com/ashritha2504/Food-Nutrition-Dashboard/blob/main/nutrient%20analysis.png
 
 ### Dashboard View 2 – Nutrient Analysis
 ![Dashboard Page 2](images/dashboard-page2.png)
